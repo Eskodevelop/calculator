@@ -1,16 +1,17 @@
 # Calculator
 ## Short description
-Etch a sketch is simple game, without strict rules. It is easy to use, without any account. Game for kids, drawing on the board and you can choose random colors or black.
+Polish calcultor is a mathematical notation in which operators follow their operands.
 
-Aplication's main features
-Project features:
-Etch a sketch board
+# Aplication's main features
+## Project features:
+Calculator board
 Easy to integrate
 Responsive
 Without any tipe of password or login
-Tehnologies
-Built With:
-React JS
+
+# Tehnologies
+## Built With:
+* React JS
 Java Script
 Html
 Css
