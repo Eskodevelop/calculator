@@ -1,7 +1,7 @@
 # Calculator
 
 ## Short description
-Polish calcultor is a mathematical notation in which operators follow their operands.
+Reverse Polish notation (RPN), also known as Polish postfix notation or simply postfix notation, is a mathematical notation in which operators follow their operands.
 
 # Aplication's main features
 
